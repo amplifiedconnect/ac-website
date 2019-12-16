@@ -1,17 +1,16 @@
 import React from 'react'
 
-const BannerLanding = (props) => (
+const BannerServices = (props) => (
     <section id="banner" className="style2">
         <div className="inner">
             <header className="major">
-                <h1>Landing</h1>
+                <h1>Services</h1>
             </header>
             <div className="content">
-                <p>Lorem ipsum dolor sit amet nullam consequat<br />
-                sed veroeros. tempus adipiscing nulla.</p>
+                <p>We build excitement! Pontiac</p>
             </div>
         </div>
     </section>
 )
 
-export default BannerLanding
+export default BannerSevices
