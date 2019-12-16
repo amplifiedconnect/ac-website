@@ -16,21 +16,15 @@ module.exports = {
         theme_color: '#663399',
         display: 'minimal-ui',
         icon: 'src/assets/images/website-icon.png', // This path is relative to the root of the site.
-      },
-    },
-    'gatsby-plugin-sass',
-    'gatsby-plugin-offline'
-    module.exports = {
-      plugins: [
-        {
-          resolve: "gatsby-plugin-hubspot",
+      resolve: "gatsby-plugin-hubspot",
           options: {
               trackingCode: "6728858",
               respectDNT: true,
               productionOnly: true,
-          },
-        },
+          }
+      },
+    },
+    'gatsby-plugin-sass',
+    'gatsby-plugin-offline'
       ]
-    }
-  ],
 }
