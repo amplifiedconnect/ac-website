@@ -13,4 +13,6 @@ const BannerServices = (props) => (
     </section>
 )
 
-export default BannerSevices
+
+export default BannerServices
+

@@ -14,7 +14,7 @@ const Banner = (props) => (
                 </ul>
             </div>
         </div>
-    </section>
+    </section> 
 )
 
 export default Banner
