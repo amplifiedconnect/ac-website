@@ -8,8 +8,7 @@ import pic01 from '../assets/images/pic01.jpg'
 import pic02 from '../assets/images/pic02.jpg'
 import pic03 from '../assets/images/pic03.jpg'
 import pic04 from '../assets/images/pic04.jpg'
-import pic05 from '../assets/images/pic05.jpg'
-import pic06 from '../assets/images/pic06.jpg'
+
 
 class HomeIndex extends React.Component {
     render() {
@@ -17,7 +16,7 @@ class HomeIndex extends React.Component {
         return (
             <Layout>
                 <Helmet
-                    title="Gatsby Starter - Forty"
+                    title="Amplified Connect"
                     meta={[
                         { name: 'description', content: 'Sample' },
                         { name: 'keywords', content: 'sample, something' },
@@ -34,7 +33,7 @@ class HomeIndex extends React.Component {
                                 <h3>Celebrating local businesses</h3>
                                 <p>Connecting communities</p>
                             </header>
-                            <Link to="/services" className="link primary"></Link>
+                            <Link to="/connect" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
