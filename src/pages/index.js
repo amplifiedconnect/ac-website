@@ -64,7 +64,7 @@ class HomeIndex extends React.Component {
                             </header>
                             <p>Amplified Digital is.. tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
                             <ul className="actions">
-                                <li><Link to="https://www.amplifieddigitalagency.com" className="button next">Learn about Amplified Agency</Link></li>
+                                <li><a href ="https://www.amplifieddigitalagency.com" className="button next">Learn about Amplified Agency</a></li>
                             </ul>
                         </div>
                     </section>
