@@ -12,7 +12,7 @@ const Landing = (props) => (
     <Layout>
         <Helmet>
             <title>About - Amplified Connect</title>
-            <meta name="description" content="Landing Page" />
+            <meta name="description" content="About Amplified Connect" />
         </Helmet>
 
         <BannerAbout />

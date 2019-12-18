@@ -8,7 +8,7 @@ const Generic = (props) => (
     <Layout>
         <Helmet>
             <title>Vision - Amplified Connect</title>
-            <meta name="description" content="Generic Page" />
+            <meta name="description" content="Amplified Connect Vision" />
         </Helmet>
 
         <div id="main" className="alt">

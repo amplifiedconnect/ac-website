@@ -18,8 +18,8 @@ class HomeIndex extends React.Component {
                 <Helmet
                     title="Amplified Connect"
                     meta={[
-                        { name: 'description', content: 'Sample' },
-                        { name: 'keywords', content: 'sample, something' },
+                        { name: 'description', content: 'Amplified Connect is the local leader in connecting businesses and communities.' },
+                        { name: 'keywords', content: 'local promotion, advertising' },
                     ]}
                 >
                 </Helmet>
