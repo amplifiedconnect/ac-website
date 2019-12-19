@@ -78,7 +78,7 @@ const Landing = (props) => (
                             <header className="major">
                                 <h3>Christian Ramirez</h3>
                             </header>
-                            <p>As the Saels and Business Development Manager, Christian is point person for our partners to build, optimize and launch campaigns and sales programs.  Prior to joining the Amplified Connect team, Christian was the Digital Campaign Manager at the Arizona Daily Star for about 4 years.  He spent eight years at Wick communications first as a web developer and then as a digital media manager where he was responsible for the online operations of 19 community newspapers. </p>
+                            <p>As the Sales and Business Development Manager, Christian is point person for our partners to build, optimize and launch campaigns and sales programs.  Prior to joining the Amplified Connect team, Christian was the Digital Campaign Manager at the Arizona Daily Star for about 4 years.  He spent eight years at Wick communications first as a web developer and then as a digital media manager where he was responsible for the online operations of 19 community newspapers. </p>
                           </div>
                     </div>
                 </section>
