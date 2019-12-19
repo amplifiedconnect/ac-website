@@ -9,6 +9,7 @@ import pic09 from '../assets/images/pic09.jpg'
 import pic10 from '../assets/images/pic10.jpg'
 import kerr from '../assets/images/john_kerr.jpg'
 import sara from '../assets/images/sara.png'
+import andrew from '../assets/images/Andrew.jpg'
 
 const Landing = (props) => (
     <Layout>
@@ -43,9 +44,9 @@ const Landing = (props) => (
                     </div>
                 </section>
                 <section>
-                    <Link to="/generic" className="image">
-                        <img src={pic09} alt="" />
-                    </Link>
+                    <div className="image">
+                        <img src={andrew} alt="" />
+                    </div>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
@@ -57,7 +58,7 @@ const Landing = (props) => (
                 </section>
                 <section>
                     <div className="image">
-                        <img src={pic10} alt="" />
+                        <img src={sara} alt="" />
                     </div>
                     <div className="content">
                         <div className="inner">
