@@ -5,7 +5,7 @@ import aclogo from '../assets/images/Amplified_Connect-logo-wht.png'
 
 const Header = (props) => (
     <header id="header" className="alt">
-        <Link to="/" className="logo"><img src={aclogo} alt="Amplified Connect" /><span>by Amplified Digital</span></Link>
+        <Link to="/" className="logo"><img src={aclogo} alt="Amplified Connect" /></Link>
         <nav>
             <a className="menu-link" onClick={props.onToggleMenu} href="javascript:;">Menu</a>
         </nav>
