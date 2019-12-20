@@ -15,7 +15,7 @@ module.exports = {
         background_color: '#663399',
         theme_color: '#663399',
         display: 'minimal-ui',
-        icon: 'src/assets/images/website-icon.png', // This path is relative to the root of the site.
+        icon: 'src/assets/images/Amplified_Connect-icon-logo-wht.png', // This path is relative to the root of the site.
       resolve: "gatsby-plugin-hubspot",
           options: {
               trackingCode: "6728858",
