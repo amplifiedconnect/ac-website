@@ -28,9 +28,9 @@ const Landing = (props) => (
             </section>
             <section id="two" className="spotlights">
                 <section>
-                    <Link to="/generic" className="image">
+                    <div className="image">
                         <img src={tucsonevent} alt="" />
-                    </Link>
+                    </div>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
@@ -38,15 +38,15 @@ const Landing = (props) => (
                             </header>
                             <p>Media saturation and always-on mobile devices make it difficult for a local business to stand out. With a powerful local voice, media companies can spotlight businesses with an engaging contest or promotion.  For the media company, This can be the start of a long-lasting relationship with a new advertising partner or a new, creative option for an existing one.</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
+                                <li><a href="http://amplifieddigitalagency-6728858.hs-sites.com/amplified-connect" className="button">Learn more</Link></li>
                             </ul>
                         </div>
                     </div>
                 </section>
                 <section>
-                    <Link to="/generic" className="image">
+                    <div className="image">
                         <img src={bestofphoto} alt="" />
-                    </Link>
+                    </div>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
@@ -54,15 +54,15 @@ const Landing = (props) => (
                             </header>
                             <p>Awards and events that highlight popular local business are much more than a revenue opportunity. Executed properly, business events give your team much needed face time with clients.  At the same time, your existing and potential clients win awards, brag to their friends, and relax.</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
+                                <li><a href="http://amplifieddigitalagency-6728858.hs-sites.com/amplified-connect" className="button">Learn more</Link></li>
                             </ul>
                         </div>
                     </div>
                 </section>
                 <section>
-                    <Link to="/generic" className="image">
+                    <div className="image">
                         <img src={pic10} alt="" />
-                    </Link>
+                    </div>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
@@ -70,7 +70,7 @@ const Landing = (props) => (
                             </header>
                             <p>Does your contest, promotion or event end once the winners are announced?  NO.  That was only act one in the Amplified Connect program. To help your sales people close more deals after a program, our team crafts custom lead nurturing communications to help you reach your revenue goal.</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
+                                <li><a href="http://amplifieddigitalagency-6728858.hs-sites.com/amplified-connect" className="button">Learn more</Link></li>
                             </ul>
                         </div>
                     </div>
