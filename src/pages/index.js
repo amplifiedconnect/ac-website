@@ -23,6 +23,7 @@ class HomeIndex extends React.Component {
                         { name: 'description', content: 'Amplified Connect is the local leader in connecting businesses and communities.' },
                         { name: 'keywords', content: 'local promotion, advertising' },
                     ]}
+                    html lang="en-US"
                 >
                 </Helmet>
 
