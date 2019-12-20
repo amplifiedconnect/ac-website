@@ -7,7 +7,7 @@ import BannerAbout from '../components/BannerAbout'
 import pic08 from '../assets/images/pic08.jpg'
 import pic09 from '../assets/images/pic09.jpg'
 import pic10 from '../assets/images/pic10.jpg'
-import kerr from '../assets/images/john_kerr.jpg'
+import kerrbw from '../assets/images/kerrbw.jpg'
 import sara from '../assets/images/sara.png'
 import andrew from '../assets/images/Andrew.jpg'
 
@@ -32,7 +32,7 @@ const Landing = (props) => (
             <section id="two" className="spotlights">
                 <section>
                     <div className="image">
-                        <img src={kerr} alt="" />
+                        <img src={kerrbw} alt="" />
                     </div>
                     <div className="content">
                         <div className="inner">
