@@ -9,7 +9,7 @@ import pic09 from '../assets/images/pic09.jpg'
 import pic10 from '../assets/images/pic10.jpg'
 import kerrbw from '../assets/images/kerrbw.jpg'
 import sara from '../assets/images/sara.png'
-import andrew from '../assets/images/Andrew.jpg'
+import andrew from '../assets/images/andrewm.jpg'
 
 const Landing = (props) => (
     <Layout>
