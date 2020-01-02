@@ -1,8 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
-
-import tower from '../assets/images/tower.jpg'
+import Tower from '../assets/images/tower.JPG'
 
 const Generic = (props) => (
     <Layout>
@@ -17,7 +16,7 @@ const Generic = (props) => (
                     <header className="major">
                         <h1>Amplifying the Local Connnection</h1>
                     </header>
-                    <span className="image main"><img src={tower} alt="" /></span>
+                    <span className="image main"><img src={Tower} alt="" /></span>
                     <p>As the local business landsape changes, agencies must adapt products and services to the new competitive environment.</p>
                     <p>Amplified Connect believes:</p>
                     <p>We offer:</p>
