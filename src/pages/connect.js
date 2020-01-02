@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 
-import tower from '../assets/images/tower.jpg'
+import tower from '../assets/images/tower.JPG'
 
 const Generic = (props) => (
     <Layout>
