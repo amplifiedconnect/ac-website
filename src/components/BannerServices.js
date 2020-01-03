@@ -7,7 +7,7 @@ const BannerServices = (props) => (
                 <h1>Services</h1>
             </header>
             <div className="content">
-                <p>We build excitement! Pontiac</p>
+                <p>We build excitement!</p>
             </div>
         </div>
     </section>
