@@ -4,7 +4,7 @@ import Helmet from 'react-helmet';
 import Layout from '../components/layout';
 import BannerAbout from '../components/BannerAbout';
 
-import pic08 from '../assets/images/pic08.jpg';
+import pic08 from '../assets/images/emily2n.jpg';
 import pic09 from '../assets/images/pic09.jpg';
 import pic10 from '../assets/images/Ramirez_Picture.jpg';
 import kerrbw from '../assets/images/kerrbw.jpg';
@@ -32,7 +32,7 @@ const Landing = (props) => (
             <section id="two" className="spotlights">
                 <section>
                     <div className="image">
-                        <img src={kerrbw} alt="" />
+                        <img src={kerrbw} alt="John" />
                     </div>
                     <div className="content">
                         <div className="inner">
@@ -45,7 +45,7 @@ const Landing = (props) => (
                 </section>
                 <section>
                     <div className="image">
-                        <img src={andrew} alt="" />
+                        <img src={andrew} alt="Andrew" />
                     </div>
                     <div className="content">
                         <div className="inner">
@@ -58,7 +58,7 @@ const Landing = (props) => (
                 </section>
                 <section>
                     <div className="image">
-                        <img src={sara} alt="" />
+                        <img src={sara} alt="Sara" />
                     </div>
                     <div className="content">
                         <div className="inner">
@@ -71,7 +71,7 @@ const Landing = (props) => (
                 </section>
                 <section>
                     <div className="image">
-                        <img src={pic10} alt="" />
+                        <img src={pic10} alt="Christian" />
                     </div>
                     <div className="content">
                         <div className="inner">
@@ -82,6 +82,20 @@ const Landing = (props) => (
                           </div>
                     </div>
                 </section>
+                <section>
+                    <div className="image">
+                        <img src={pic08} alt="Emily" />
+                    </div>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Emily Tintera</h3>
+                            </header>
+                            <p>Emily is the Custom Events and Sponsorship Director at Amplified Connect. She has over 15 years of Event and Sponsorship integration in the Midwest on behalf of local news publications, lifestyle magazines, and alternative weeklies. From tasting events to festivals, to award ceremonies - Emily can work with individual publications to determine what events will be the most successful in their markets, and provide support on how to maximize sponsorship revenue.</p>
+                          </div>
+                    </div>
+                </section>
+
             </section>
         </div>
 
