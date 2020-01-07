@@ -18,9 +18,11 @@ const Generic = (props) => (
                     </header>
                     <p>As the local business landsape changes, agencies must adapt products and services to the new competitive environment.</p>
                     <span className="image main"><img src={tower} alt="tower landscape" /></span>
-                    <p>Amplified Connect believes:</p>
-                    <p>We offer:</p>
-                    <p>Connect with us to learn more</p>
+                    <p>Amplified Connect believes that real people endorsing businesses and local professionals improves the connection between citizens and the business community.</p>
+                    <p>In partnership with a local agency or media company, Amplified Connect creates events, contests, and promotions to drive an engaged audience to the point of purchase.</p>
+                    <ul className="actions">
+                                <li><a href ="http://amplifieddigitalagency-6728858.hs-sites.com/amplified-connect" className="button next">Learn More</a></li>
+                            </ul>
                 </div>
             </section>
         </div>
