@@ -62,7 +62,7 @@ class HomeIndex extends React.Component {
                             <header className="major">
                                 <h2>About Amplified Digital</h2>
                             </header>
-                            <p>Amplified Digital isis a different kind of digital advertising agency. Formed out of a passion for helping companies develop a strong digital presence, over the years we’ve evolved to provide strategic digital marketing, media planning, consulting and analytics. Our goal is to help your company successfully navigate through an ever-changing digital landscape.</p>
+                            <p>Amplified Digital is a different kind of digital advertising agency. Formed out of a passion for helping companies develop a strong digital presence, over the years we’ve evolved to provide strategic digital marketing, media planning, consulting and analytics. Our goal is to help your company successfully navigate through an ever-changing digital landscape.</p>
                             <ul className="actions">
                                 <li><a href ="https://www.amplifieddigitalagency.com" className="button next">Go to Amplified Agency</a></li>
                             </ul>
