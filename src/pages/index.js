@@ -5,10 +5,10 @@ import Layout from '../components/layout'
 import Banner from '../components/Banner'
 
 import pic01 from '../assets/images/pic01.jpg'
-import pic02 from '../assets/images/pic02.jpg'
-import pic03 from '../assets/images/pic03.jpg'
+import pic02 from '../assets/images/aboutushome.jpg'
+import pic03 from '../assets/images/clientresourceshome.jpg'
 import pic04 from '../assets/images/pic04.jpg'
-import sparkler from '../assets/images/sparkler.png'
+import sparkler from '../assets/images/celebratelocalhome.jpg'
 import event from '../assets/images/tucsonbestofevent.jpg'
 
 
