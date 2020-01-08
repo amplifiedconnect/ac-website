@@ -21,7 +21,6 @@ const Generic = (props) => (
                                 <h3>As the local business landsape changes, agencies must adapt products and services to the new competitive environment.</h3>
                                 <p>Our vision for connecting communities</p>
                             </header>
-                            <Link to="/connect" className="link primary"></Link>
                         </article>
                     <p></p>
                     <span className="image main"><img src={tower} alt="tower landscape" /></span>
