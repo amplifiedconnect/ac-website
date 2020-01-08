@@ -16,7 +16,14 @@ const Generic = (props) => (
                     <header className="major">
                         <h1>Amplifying the Local Connnection</h1>
                     </header>
-                    <p>As the local business landsape changes, agencies must adapt products and services to the new competitive environment.</p>
+                    <article style={{backgroundImage: `url(${tower})`}}>
+                            <header className="major">
+                                <h3>As the local business landsape changes, agencies must adapt products and services to the new competitive environment.</h3>
+                                <p>Our vision for connecting communities</p>
+                            </header>
+                            <Link to="/connect" className="link primary"></Link>
+                        </article>
+                    <p></p>
                     <span className="image main"><img src={tower} alt="tower landscape" /></span>
                     <p>Amplified Connect believes that real people endorsing businesses and local professionals improves the connection between citizens and the business community.</p>
                     <p>In partnership with a local agency or media company, Amplified Connect creates events, contests, and promotions to drive an engaged audience to the point of purchase.</p>
