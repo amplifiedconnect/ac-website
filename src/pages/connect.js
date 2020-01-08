@@ -8,6 +8,7 @@ const Generic = (props) => (
         <Helmet>
             <title>Vision - Amplified Connect</title>
             <meta name="description" content="Amplified Connect Vision" />
+            <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/6728858.js"></script>
         </Helmet>
 
         <div id="main" className="alt">
