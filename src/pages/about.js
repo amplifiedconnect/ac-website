@@ -4,7 +4,7 @@ import Helmet from 'react-helmet';
 import Layout from '../components/layout';
 import BannerAbout from '../components/BannerAbout';
 
-import pic08 from '../assets/images/emilytintera.png';
+import pic08 from '../assets/images/emilytintera.jpg';
 import pic09 from '../assets/images/pic09.jpg';
 import pic10 from '../assets/images/Ramirez_Picture.jpg';
 import kerrbw from '../assets/images/kerrbw.jpg';
